@@ -25,16 +25,15 @@
 
 ---
 
-<!-- ## 🎥 Screen Recordings
+## 🎥 Screen Recordings
 
 <p align="center">
-  <video src="screen-recordings/main-demo.mp4" width="300" controls></video>
-  <video src="screen-recordings/order-flow.mp4" width="300" controls></video>
+  <video src="screenrecord/orderflow.mp4" width="300" controls></video>
 </p>
 
 ---
 
-## 🛍️ Store Listing Images
+<!-- ## 🛍️ Store Listing Images
 
 <p align="center">
   <img src="store-assets/google-play/featured-graphic.png" width="420">
@@ -44,9 +43,9 @@
   <img src="store-assets/app-store/01.png" width="210">
   <img src="store-assets/app-store/02.png" width="210">
   <img src="store-assets/app-store/03.png" width="210">
-</p> -->
+</p>
 
----
+--- -->
 
 ## 🎨 Branding
 
