@@ -25,13 +25,6 @@
 
 ---
 
-## 🎥 Screen Recordings
-
-<p align="center">
-  <video src="screenrecord/orderflow.mp4" width="300" controls></video>
-</p>
-
----
 
 <!-- ## 🛍️ Store Listing Images
 
